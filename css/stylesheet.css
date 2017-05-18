@@ -1,0 +1,47 @@
+
+.name {
+  font-size: 32px;
+  font-weight: bold;
+  font-style: italic;
+  font-family: cursive;
+}
+.data-slide {
+
+}
+.quote{
+  font-size: 12px;
+  font-style: italic;
+}
+.background{
+  background-color: #C0C0C0
+}
+.bg-1 {
+    background-color: #DCDCDC;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-top: 10px;
+  }
+
+.bg-2{
+  font-size: 18px;
+  font-family: Times;
+  background-color: #;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 70px;
+  padding-bottom: 70px;
+}
+
+.list{
+  font-size: 16;
+  font-display: block;
+  background: #f2f2f2;
+}
+.my-class {
+  padding: 10px;
+  margin: 15px;
+}
+.footer{
+  background: #aaa;color:white;
+  font-size: 16px;-u
+}
